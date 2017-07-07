@@ -7,7 +7,12 @@ import com.mkyong.customer.model.Customer;
 
 public class App 
 {
-	/* Main method to start */
+	/* 
+	 * Main method to start 
+	 * Added Customer 1
+	 * Added Customer 2
+	 * 
+	 * */
     public static void main( String[] args )
     {
     	ApplicationContext context = new ClassPathXmlApplicationContext("Spring-Module.xml");
